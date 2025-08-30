@@ -8,8 +8,8 @@ import "./App.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Overall from "./pages/Overall";
-import Experience from "./pages/experience";
-import Education from "./pages/education";
+import Experience from "./pages/Experience";
+import Education from "./pages/Education";
 import Contact from "./pages/Contact";
 
 function App() {
