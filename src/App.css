@@ -951,6 +951,11 @@ section.experience {
   }
   section.experience {
     padding: 90px 20px;
+    .judulHalaman{
+      p{
+        width: 95%;
+      }
+    }
   }
   .experienceItem {
     .namaPerusahaan {
