@@ -7,7 +7,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Overall from "./pages/overall";
+import Overall from "./pages/Overall";
 import Experience from "./pages/experience";
 import Education from "./pages/education";
 import Contact from "./pages/Contact";
